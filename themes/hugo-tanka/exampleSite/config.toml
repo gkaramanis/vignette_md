@@ -1,6 +1,6 @@
-baseurl = "https://rprofile.net/"
-title = "Rprofile"
-author = "Georgios Karamanis"
+baseurl = "https://nanx.me/hugo-tanka/"
+title = "Hugo Tanka Theme"
+author = "Nan Xiao"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
