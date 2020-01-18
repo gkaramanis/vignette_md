@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "https://github.com/gkaramanis/Rprofile_net"
+    url = "https://rprofile.net/about"
     weight = 2
 [[menu.main]]
     name = "RSS"
