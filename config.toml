@@ -15,7 +15,7 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "Rprofile"
+  sitename = ".Rprofile"
 
 [[menu.main]]
     name = "Interviews"
