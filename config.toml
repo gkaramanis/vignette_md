@@ -19,11 +19,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Interviews"
-    url = "https://rprofile.net"
+    url = "/"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "https://rprofile.net/about"
+    url = "/about"
     weight = 2
 [[menu.main]]
     name = "RSS"
