@@ -1,5 +1,5 @@
 baseurl = "https://rprofile.net/"
-title = ".Rprofile"
+title = "Rprofile"
 author = "Georgios Karamanis"
 canonifyurls = true
 languagecode = "en"
