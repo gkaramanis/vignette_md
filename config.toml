@@ -3,29 +3,41 @@ title = "Rprofile"
 author = "Georgios Karamanis"
 canonifyurls = true
 languagecode = "en"
-theme = "hugo-tanka"
+paginate = 3
+theme = "renga"
 
-googleAnalytics = "UA-727326-26"
-disqusShortname = ""
-disable_mathjax = false
+enableEmoji = true
+hasCJKLanguage = true
 
-pygmentsstyle      = "vs"
-pygmentscodefences = true
+# googleAnalytics = "UA-00000000-1"
+# disqusShortname = "your-disqus-shortname"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "Rprofile"
+pagetitle = "Rprofile"
+# copyright = "© 2020 Georgios Karamanis"
+# copyrightUrl = "https://nanx.me/hugo-renga/"
+faviconfile = "images/favicon.png"
+logofile = "images/logo.png"
+posts_navigation = true
+uselatex = true
+highlightjs = true
+progressively = false
 
-[[menu.main]]
-    name = "Interviews"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 3
+github = "gkaramanis/Rprofile_net"
+twitter = "rprofile_net"
+# linkedin = "nanxstats"
+email = "rprofile@karaman.is"
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 2

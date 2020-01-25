@@ -1,0 +1,3 @@
+[submodule "themes/renga"]
+	path = themes/renga
+	url = https://github.com/nanxstats/hugo-renga
