@@ -38,6 +38,6 @@ weight = 1
 
 [[menu.primary]]
 identifier = "blog"
-name = "Blog"
+name = "Interviews"
 url = "/blog/"
 weight = 2
