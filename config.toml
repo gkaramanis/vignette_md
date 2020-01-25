@@ -9,7 +9,7 @@ theme = "renga"
 enableEmoji = true
 hasCJKLanguage = true
 
-# googleAnalytics = "UA-00000000-1"
+googleAnalytics = "UA-727326-26"
 # disqusShortname = "your-disqus-shortname"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
