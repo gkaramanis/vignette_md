@@ -37,7 +37,7 @@ url = "/about/"
 weight = 1
 
 [[menu.primary]]
-identifier = "blog"
+identifier = "interviews"
 name = "Interviews"
-url = "/blog/"
+url = "/interviews/"
 weight = 2
