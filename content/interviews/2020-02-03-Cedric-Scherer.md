@@ -2,7 +2,6 @@
 title: "Cédric Scherer"
 date: 2020-02-03
 type: interview
-draft: true
 ---
 
 ![](/images/2020-02-03-Cedric-Scherer/photo2.jpg)  
