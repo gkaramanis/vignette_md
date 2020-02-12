@@ -1,5 +1,5 @@
-baseurl = "https://rprofile.net/"
-title = "Rprofile"
+baseurl = "https://vignette.md/"
+title = "vignette"
 author = "Georgios Karamanis"
 canonifyurls = true
 languagecode = "en"
@@ -10,14 +10,11 @@ enableEmoji = true
 hasCJKLanguage = true
 
 googleAnalytics = "UA-727326-26"
-# disqusShortname = "your-disqus-shortname"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-pagetitle = "Rprofile"
-# copyright = "© 2020 Georgios Karamanis"
-# copyrightUrl = "https://nanx.me/hugo-renga/"
+pagetitle = "vignette"
 faviconfile = "images/favicon.png"
 logofile = "images/logo.png"
 posts_navigation = true
@@ -26,9 +23,8 @@ highlightjs = true
 progressively = false
 
 github = "gkaramanis/Rprofile_net"
-twitter = "rprofile_net"
-# linkedin = "nanxstats"
-email = "rprofile@karaman.is"
+twitter = "vignette_md"
+email = "vignette@karaman.is"
 
 [[menu.primary]]
 identifier = "about"
