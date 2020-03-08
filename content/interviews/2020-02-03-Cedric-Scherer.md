@@ -6,10 +6,11 @@ type: interview
 
 ![](/images/2020-02-03-Cedric-Scherer/photo2.jpg)  
 &nbsp;  
-  
+<!--more-->
+
 #### Who are you, and what do you do?
 Hi, my name is [Cédric](https://cedricscherer.netlify.com/top/about) (Twitter: @[CedScherer](https://twitter.com/CedScherer), GitHub: [Z3tt](https://github.com/Z3tt/)) and I recently finished my PhD thesis in the subject of ecology. Currently, I am working part-time as a scientific researcher at the IZW in Berlin, Germany, and as a freelancer in the field of data visualization.   
-<!--more-->
+
 #### How do you use R? What are your favorite packages?
 My first contact with R was in 2008 when doing a mathematics course in my first year as a Bachelor in Life Sciences. We had the choice between Excel/SPSS and R - the professor told us it will be harder but will help us in the future as a scientist so I trusted her and did the R version! Even though we were not really learning how to code (we had to do the exercises at the same pace as the SPSS group without any general introduction to R) I quickly realized how powerful this language and programming in general is.  
 

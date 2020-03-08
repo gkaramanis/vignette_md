@@ -6,7 +6,8 @@ type: interview
 
 ![](/images/2020-02-10-Jake-Kaupp/photo1.jpg)  
 &nbsp;  
-  
+<!--more-->
+
 #### Who are you, and what do you do?
 
 Hi! My name is Jake Kaupp ([@jakekaupp](https://twitter.com/jakekaupp) on Twitter, [jkaupp](https://github.com/jkaupp) on GitHub). I’m a husband and father of two busy kids. I work as the Assistant Director of Institutional Research (IR) at [Queen’s University](https://www.queensu.ca/) in Kingston, Ontario, Canada. That entails a lot of work with a wide array of data related to the University and its operations. It’s an analytic field with a lot of opportunities for the application of data science techniques and a lot of visualization work. There are lots of reports to be done.

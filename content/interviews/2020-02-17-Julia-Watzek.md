@@ -6,7 +6,8 @@ type: interview
 
 ![](/images/2020-02-17-Julia-Watzek/photo1.jpg)  
 &nbsp;  
-  
+<!--more-->
+
 #### Who are you, and what do you do?
 Hallo! My name is [Julia Watzek](http://www.juliawatzek.com/) (Twitter: [@watzoever](https://twitter.com/watzoever), Github: [jwatzek](https://github.com/jwatzek)). I'm a cognitive & behavioral scientist wrapping up my PhD and venturing onto the job market. I study why humans and other animals make irrational decisions and how that might fit the social and physical environments we encounter. I like using data to tell stories and help people make better decisions.
 
