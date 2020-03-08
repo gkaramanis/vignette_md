@@ -5,8 +5,8 @@ type: interview
 ---
 
 ![](/images/2020-02-10-Jake-Kaupp/photo1.jpg)  
-&nbsp;  
 <!--more-->
+&nbsp;  
 
 #### Who are you, and what do you do?
 

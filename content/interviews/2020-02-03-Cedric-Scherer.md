@@ -5,8 +5,8 @@ type: interview
 ---
 
 ![](/images/2020-02-03-Cedric-Scherer/photo2.jpg)  
-&nbsp;  
 <!--more-->
+&nbsp;  
 
 #### Who are you, and what do you do?
 Hi, my name is [Cédric](https://cedricscherer.netlify.com/top/about) (Twitter: @[CedScherer](https://twitter.com/CedScherer), GitHub: [Z3tt](https://github.com/Z3tt/)) and I recently finished my PhD thesis in the subject of ecology. Currently, I am working part-time as a scientific researcher at the IZW in Berlin, Germany, and as a freelancer in the field of data visualization.   
