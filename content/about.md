@@ -4,7 +4,7 @@ title: About
 type: page
 ---
 
-Vignette is a website that features interviews of the beautiful people that use R. It is inspired by [Uses This](https://usesthis.com), a great website by [Daniel Bogan](https://waferbaby.com/). A new nterview is posted every Monday at [18:00 CET](https://www.google.se/search?q=18%3A00+cet).
+Vignette is a website that features interviews of the beautiful people that use R. It is inspired by [Uses This](https://usesthis.com), a great website by [Daniel Bogan](https://waferbaby.com/). Interviews are posted on Mondays at [18:00 CET](https://www.google.se/search?q=18%3A00+cet).
 
 The interviews are meant to be relatively short and nerdy. For proper interviews, check out [R for the Rest of Us](https://rfortherestofus.com/category/my-r-journey/) and the [.rpofile](https://ropensci.org/tags/rprofile/) series.
 
