@@ -1,4 +1,4 @@
-baseurl = "https://vignette.md/"
+baseurl = "https://vignette.md"
 title = "vignette"
 author = "Georgios Karamanis"
 canonifyurls = true
