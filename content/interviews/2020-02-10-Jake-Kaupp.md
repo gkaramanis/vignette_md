@@ -2,6 +2,7 @@
 title: "Jake Kaupp"
 date: 2020-02-10
 type: interview
+meta_img: images/2020-02-10-Jake-Kaupp/photo1.jpg
 ---
 
 ![](/images/2020-02-10-Jake-Kaupp/photo1.jpg)  

@@ -2,6 +2,7 @@
 title: "Jon Harmon"
 date: 2020-03-09
 type: interview
+meta_img: images/2020-03-09-Jon-Harmon/photo1.jpg
 ---
 
 ![](/images/2020-03-09-Jon-Harmon/photo1.jpg)

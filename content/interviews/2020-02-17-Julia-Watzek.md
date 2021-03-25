@@ -2,6 +2,7 @@
 title: "Julia Watzek"
 date: 2020-02-17
 type: interview
+meta_img: images/2020-02-17-Julia-Watzek/photo1.jpg
 ---
 
 ![](/images/2020-02-17-Julia-Watzek/photo1.jpg)  
