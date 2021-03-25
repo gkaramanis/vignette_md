@@ -2,6 +2,7 @@
 title: "Ijeamaka Anyene"
 date: 2021-03-22
 type: interview
+meta_img: images/2021-03-22-Ijeamaka-Anyene/photo1.jpeg
 ---
 
 ![](/images/2021-03-22-Ijeamaka-Anyene/photo1.jpeg) 
