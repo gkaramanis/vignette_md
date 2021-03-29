@@ -1,10 +1,12 @@
 ---
 title: "YOUR NAME HERE"
-date: 2020-12-12
+date: 2099-12-12
 type: interview
+draft: true
+meta_img: images/2099-12-12-YOUR-NAME/photo1.jpeg
 ---
 
-![](/images/2020-12-12-YOUR-NAME/photo1.jpg)  
+![](/images/2099-12-12-YOUR-NAME/photo1.jpg)  
 &nbsp;  
 <!--more-->
 
