@@ -4,6 +4,8 @@ title: Contribute
 type: page
 ---
 
+If you are an R user of any level and want to contribute to this project, you're more than welcome to do so!  
+
 It's the same four questions to everyone:
 
 Who are you, and what do you do?  
