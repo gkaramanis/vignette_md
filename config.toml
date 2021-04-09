@@ -37,3 +37,9 @@ identifier = "interviews"
 name = "Interviews"
 url = "/interviews/"
 weight = 2
+
+[[menu.primary]]
+identifier = "contribute"
+name = "Contribute"
+url = "/contribute/"
+weight = 3
